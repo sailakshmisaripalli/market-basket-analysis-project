@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 streamlit
 pandas
 numpy
-mlxtend==0.23.4
+mlxtend
 scikit-learn
-=======
-streamlit
-pandas
-numpy
-mlxtend==0.23.4
->>>>>>> 190f9bd15cdb9d4b0e2f2d9805994cce16f893b5
