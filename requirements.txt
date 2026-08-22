@@ -1,4 +1,0 @@
-streamlit
-pandas
-numpy
-mlxtend==0.23.4
