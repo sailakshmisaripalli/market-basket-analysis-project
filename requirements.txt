@@ -4,4 +4,4 @@ numpy
 matplotlib
 mlxtend
 scikit-learn
-tensorflow
+tensorflow-cpu
